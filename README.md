@@ -1,27 +1,46 @@
-# twitter-clone
+Twitter Clone
+A simple Twitter clone built with Vue.js.
 
-## Project setup
+Description
+This project is a basic Twitter clone that demonstrates the use of Vue.js for building interactive web applications. It includes features such as posting tweets, following other users, and liking tweets.
 
-```
+Installation
+Clone the repository:
+
+bash
+Copy code
+git clone [https://github.com/cihat/twitter-clone.git](https://github.com/ishwersharma13/twitter-clone)
+Navigate to the project directory:
+
+bash
+Copy code
+cd twitter-clone
+Install the dependencies:
+
+Copy code
 npm install
-```
+Usage
+To run the Twitter Clone app locally, use the following command:
 
-### Compiles and hot-reloads for development
-
-```
+arduino
+Copy code
 npm run serve
-```
+This will start the development server, and you can access the app in your browser at the specified URL (usually http://localhost:8080).
 
-### Compiles and minifies for production
+Technologies Used
+Vue.js
+Vue Router
+Vuex
+Axios
+HTML
+CSS
+JavaScript
+Contributing
+Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
 
-```
-npm run build
-```
+License
+This project is licensed under the MIT License. See the LICENSE file for more details.
 
-### Customize configuration
-
-See [Configuration Reference](https://cli.vuejs.org/config/).
-
-### Project Gif
-
-![twitter-clone](https://user-images.githubusercontent.com/57585087/114254996-517cce80-99bb-11eb-9fb4-2ffcc17418fb.gif)
+Acknowledgements
+This project was inspired by the functionality and design of Twitter.
+Special thanks to the Vue.js community for providing excellent documentation and resources.
