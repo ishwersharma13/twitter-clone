@@ -1,6 +1,7 @@
 Twitter Clone
 A simple Twitter clone built with Vue.js.
-
+Deploy
+https://twitter-clone-ten.vercel.app/
 Description
 This project is a basic Twitter clone that demonstrates the use of Vue.js for building interactive web applications. It includes features such as posting tweets, following other users, and liking tweets.
 
@@ -9,7 +10,6 @@ Clone the repository:
 
 bash
 Copy code
-git clone [https://github.com/cihat/twitter-clone.git](https://github.com/ishwersharma13/twitter-clone)
 Navigate to the project directory:
 
 bash
